@@ -1,0 +1,782 @@
+{
+  "orders": [
+    {
+      "address": "sdfvsdv",
+      "user": {
+        "firstName": "sdfv",
+        "lastName": "sdfv"
+      },
+      "paymentId": "1",
+      "deliveryId": "1",
+      "promocode": "sdfvsdv",
+      "products": [
+        {
+          "title": "Samsung note 2",
+          "image": "https://placehold.co/600x400",
+          "price": 5000,
+          "id": 2,
+          "quantity": 7
+        },
+        {
+          "title": "iPhone 10",
+          "image": "https://placehold.co/600x400",
+          "price": 5000,
+          "id": 4,
+          "quantity": 1
+        },
+        {
+          "title": "Samsung note 2",
+          "image": "https://placehold.co/600x400",
+          "price": 7000,
+          "id": 5,
+          "quantity": 1
+        }
+      ],
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "title": "Samsung note 2",
+      "image": "https://placehold.co/600x400",
+      "price": 5000,
+      "id": 2,
+      "quantity": 7,
+      "delay": true
+    },
+    {
+      "title": "iPhone 10",
+      "image": "https://placehold.co/600x400",
+      "price": 5000,
+      "id": 4,
+      "quantity": 1,
+      "delay": true
+    },
+    {
+      "title": "Samsung note 2",
+      "image": "https://placehold.co/600x400",
+      "price": 7000,
+      "id": 5,
+      "quantity": 1,
+      "delay": true
+    },
+    {
+      "image": "https://placehold.co/600x400",
+      "title": "Ноут Димы",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "categoryId": 2,
+      "price": "100500",
+      "userId": 1,
+      "isFavorites": false,
+      "id": 6,
+      "quantity": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Смартфоны"
+    },
+    {
+      "id": 2,
+      "title": "Ноутбуки"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "color": "white",
+      "image": "https://placehold.co/600x400",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "title": "iPhone 10",
+      "categoryId": 1,
+      "price": 10000,
+      "userId": 2,
+      "isFavorites": false
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "color": "black",
+      "title": "Samsung note 2",
+      "image": "https://placehold.co/600x400",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "categoryId": 1,
+      "price": 5000,
+      "userId": 2,
+      "isFavorites": true
+    },
+    {
+      "id": 3,
+      "brand": "Acer",
+      "color": "red",
+      "title": "Acer ,fkf,fk",
+      "image": "https://placehold.co/600x400",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "categoryId": 1,
+      "price": 6000,
+      "userId": 2,
+      "isFavorites": false
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "color": "red",
+      "image": "https://placehold.co/600x400",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "title": "iPhone 10",
+      "categoryId": 1,
+      "price": 5000,
+      "userId": 2,
+      "isFavorites": true
+    },
+    {
+      "id": 5,
+      "brand": "Samsung",
+      "color": "black",
+      "title": "Samsung note 2",
+      "image": "https://placehold.co/600x400",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "categoryId": 1,
+      "price": 7000,
+      "userId": 2,
+      "isFavorites": false
+    },
+    {
+      "brand": "Acer",
+      "color": "white",
+      "image": "https://placehold.co/600x400",
+      "title": "Ноут Димы",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "categoryId": 2,
+      "price": 100500,
+      "userId": 1,
+      "id": 6,
+      "isFavorites": true
+    },
+    {
+      "brand": "Acer",
+      "color": "red",
+      "image": "https://placehold.co/600x400",
+      "title": "Ноут Димы",
+      "images": [
+        "https://placehold.co/600x401",
+        "https://placehold.co/600x402",
+        "https://placehold.co/600x403",
+        "https://placehold.co/600x404",
+        "https://placehold.co/600x405",
+        "https://placehold.co/600x406",
+        "https://placehold.co/600x407",
+        "https://placehold.co/600x408"
+      ],
+      "description": "d;ofnvos dnfoiv soidnfoi bnsdfoignb oidfngoib ndfoing boidfng boin",
+      "categoryId": 2,
+      "price": 100500,
+      "userId": 1,
+      "id": 7,
+      "isFavorites": true
+    }
+  ],
+  "users": [
+    {
+      "login": "Test2",
+      "lastname": "Петров",
+      "firstname": "Ваня2123",
+      "birthday": "2024-02-15",
+      "email": "test@mail.ru",
+      "phone": "+79528889797",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 1
+    },
+    {
+      "login": "BigBoss",
+      "lastname": "Петров",
+      "firstname": "Петя",
+      "birthday": "2024-02-15",
+      "email": "test@mail.ru",
+      "phone": "+79528889797",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 2
+    }
+  ],
+  "cakes": [
+    {
+      "type": "Торт",
+      "name": "апельсин-крем",
+      "price": "1 599 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake1.svg",
+      "id": 1
+    },
+    {
+      "type": "Торт",
+      "name": "вишня-смородина",
+      "price": "1 599 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake2.svg",
+      "id": 2
+    },
+    {
+      "type": "Торт",
+      "name": "клубника-сливки",
+      "price": "1 299 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake3.svg",
+      "id": 3
+    },
+    {
+      "type": "Торт",
+      "name": "гранат-шоколад",
+      "price": "1 099 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake4.svg",
+      "id": 4
+    },
+    {
+      "type": "Торт",
+      "name": "вишня-смородина",
+      "price": "1 199 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake5.svg",
+      "id": 5
+    },
+    {
+      "type": "Торт",
+      "name": "сникерс",
+      "price": "1 099 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake6.svg",
+      "id": 6
+    },
+    {
+      "type": "Торт",
+      "name": "красный бархат",
+      "price": "1 399 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake7.svg",
+      "id": 7
+    },
+    {
+      "type": "Торт",
+      "name": "печенье-персик",
+      "price": "1 299 ₽",
+      "desc": "Торт выполнен из классических коржей с ванильным кремом и конфи из апельсина",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon2.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 2,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 365,
+        "protein": 4.29,
+        "carb": 38.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/cake8.svg",
+      "id": 8
+    },
+    {
+      "type": "Торт",
+      "name": "сникерс",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "2 999 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake1.svg",
+      "id": 9
+    },
+    {
+      "type": "Торт",
+      "name": "фисташка-малина",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "3 699 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake2.svg",
+      "id": 10
+    },
+    {
+      "type": "Торт",
+      "name": "печенье-персик",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "3 499 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake3.svg",
+      "id": 11
+    },
+    {
+      "type": "Торт",
+      "name": "гранат-шоколад",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "3 699 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake4.svg",
+      "id": 12
+    },
+    {
+      "type": "Торт",
+      "name": "красный бархат",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "2 999 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake5.svg",
+      "id": 13
+    },
+    {
+      "type": "Торт",
+      "name": "апельсин-крем",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "2 399 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake6.svg",
+      "id": 14
+    },
+    {
+      "type": "Торт",
+      "name": "клубника-сливки",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "2 899 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake7.svg",
+      "id": 15
+    },
+    {
+      "type": "Торт",
+      "name": "гранат-шоколад",
+      "desc": "Торт выполнен из трех ярусов, в каждом из которых начинка из шоколадных коржей и ореховой нуги",
+      "price": "3 299 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon4.svg",
+        "/src/assets/icons/icon5.svg"
+      ],
+      "weight": 4,
+      "peopleCount": 20,
+      "pfc": {
+        "sum": 292.5,
+        "protein": 2.29,
+        "carb": 36.8,
+        "fat": 14
+      },
+      "image": "/src/assets/images/weddingcake8.svg",
+      "id": 16
+    },
+    {
+      "type": "Капкейки",
+      "name": "конфитюр",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "price": "1 299 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/pancake1.svg",
+      "id": 17
+    },
+    {
+      "type": "Капкейки",
+      "name": "вишня",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "price": "1 599 ₽",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/pancake2.svg",
+      "id": 18
+    },
+    {
+      "type": "Капкейки",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "name": "орео",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "price": "1 299 ₽",
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "image": "/src/assets/images/pancake3.svg",
+      "id": 19
+    },
+    {
+      "type": "Капкейки",
+      "name": "лимонные",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "price": "1 199 ₽",
+      "image": "/src/assets/images/pancake4.svg",
+      "id": 20
+    },
+    {
+      "type": "Капкейки",
+      "name": "малина",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "price": "1 399 ₽",
+      "image": "/src/assets/images/pancake4.svg",
+      "id": 21
+    },
+    {
+      "type": "Капкейки",
+      "name": "сникерс",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "price": "1 599 ₽",
+      "image": "/src/assets/images/pancake5.svg",
+      "id": 22
+    },
+    {
+      "type": "Капкейки",
+      "name": "клубника-шоко",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "price": "1 299 ₽",
+      "image": "/src/assets/images/pancake6.svg",
+      "id": 23
+    },
+    {
+      "type": "Капкейки",
+      "name": "бабл гам",
+      "desc": "В наборе 6 капкейков с начинкой из классического бисквита и вишневого конфи",
+      "icons": [
+        "/src/assets/icons/icon1.svg",
+        "/src/assets/icons/icon6.svg",
+        "/src/assets/icons/icon3.svg"
+      ],
+      "weight": 800,
+      "peopleCount": 4,
+      "pfc": {
+        "sum": 265,
+        "protein": 4.29,
+        "carb": 28.8,
+        "fat": 12
+      },
+      "price": "1 399 ₽",
+      "image": "/src/assets/images/pancake6.svg",
+      "id": 24
+    }
+  ]
+}

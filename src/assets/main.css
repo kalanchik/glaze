@@ -1,0 +1,73 @@
+:root {
+    --color-white: #fff;
+    --color-black: #000;
+
+    --col-count: 12;
+    --col-size: calc(100% / 12);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+p {
+    font-family: "Jost";
+    margin: 0;
+}
+
+span {
+    font-family: "Jost";
+}
+
+
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-Regular.woff2');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-RegularItalic.woff2');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-Medium.woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-MediumItalic.woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-Light.woff2');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-LightItalic.woff2');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-Bold.woff2');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'NyghtSerif';
+    src: url('/src/assets/fonts/NyghtSerif-BoldItalic.woff2');
+    font-weight: 700;
+    font-style: italic;
+}
