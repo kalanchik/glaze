@@ -9,19 +9,17 @@
             </div>
           </v-col>
 
-          <v-col>
-            <v-row justify="beetwen">
-              <p class="nav_button">О НАС</p>
-              <p class="nav_button">ДОСТАВКА</p>
-              <router-link to="/catalog" class="route_button">
-                <p class="nav_button">ТОРТЫ</p>
-              </router-link>
-              <router-link to="/kapcake" class="route_button">
-                <p class="nav_button">КАПКЕЙКИ</p>
-              </router-link>
-              <p class="nav_button">АКЦИИ</p>
-            </v-row>
-          </v-col>
+          <v-row justify="beetwen" align="center">
+            <p class="nav_button">О НАС</p>
+            <p class="nav_button">ДОСТАВКА</p>
+            <router-link to="/catalog" class="route_button">
+              <p class="nav_button">ТОРТЫ</p>
+            </router-link>
+            <router-link to="/kapcake" class="route_button">
+              <p class="nav_button">КАПКЕЙКИ</p>
+            </router-link>
+            <p class="nav_button">АКЦИИ</p>
+          </v-row>
         </v-row>
 
         <v-row>
